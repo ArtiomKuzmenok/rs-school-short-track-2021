@@ -3,4 +3,6 @@ function ListNode(x) {
   this.next = null;
 }
 
+ListNode(1);
+
 module.exports = ListNode;
